@@ -1,0 +1,22 @@
+current directory: /Users/donshin/react-crud-video/vendor/bundle/ruby/3.2.0/gems/io-console-0.6.0/ext/io/console
+/Users/donshin/.rvm/rubies/ruby-3.2.2/bin/ruby extconf.rb
+checking for termios.h... yes
+checking for cfmakeraw() in termios.h... yes
+checking for sys/ioctl.h... yes
+checking for HAVE_RUBY_FIBER_SCHEDULER_H... yes
+creating Makefile
+
+current directory: /Users/donshin/react-crud-video/vendor/bundle/ruby/3.2.0/gems/io-console-0.6.0/ext/io/console
+make DESTDIR\= sitearchdir\=./.gem.20231124-10298-mm1pta sitelibdir\=./.gem.20231124-10298-mm1pta clean
+
+current directory: /Users/donshin/react-crud-video/vendor/bundle/ruby/3.2.0/gems/io-console-0.6.0/ext/io/console
+make DESTDIR\= sitearchdir\=./.gem.20231124-10298-mm1pta sitelibdir\=./.gem.20231124-10298-mm1pta
+compiling console.c
+linking shared-object io/console.bundle
+
+current directory: /Users/donshin/react-crud-video/vendor/bundle/ruby/3.2.0/gems/io-console-0.6.0/ext/io/console
+make DESTDIR\= sitearchdir\=./.gem.20231124-10298-mm1pta sitelibdir\=./.gem.20231124-10298-mm1pta install
+/opt/homebrew/opt/coreutils/bin/ginstall -c -m 0755 console.bundle ./.gem.20231124-10298-mm1pta/io
+
+current directory: /Users/donshin/react-crud-video/vendor/bundle/ruby/3.2.0/gems/io-console-0.6.0/ext/io/console
+make DESTDIR\= sitearchdir\=./.gem.20231124-10298-mm1pta sitelibdir\=./.gem.20231124-10298-mm1pta clean
